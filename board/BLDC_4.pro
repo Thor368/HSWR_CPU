@@ -1,4 +1,4 @@
-update=31.05.2016 13:37:16
+update=03.06.2016 14:05:16
 version=1
 last_client=kicad
 [general]
@@ -64,3 +64,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=crf_1
 LibName32=F:/ProjekteSeanAlex/kicad/alexlib
+LibName33=C:/Users/main/BitTorrent Sync/ProjekteSeanAlex/kicad/alexlib
