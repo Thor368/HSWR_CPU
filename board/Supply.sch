@@ -237,8 +237,6 @@ F 3 "" H 5850 4300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5450 3000 6100 3000
-Wire Wire Line
 	5850 2750 5850 4000
 Connection ~ 5850 3000
 $Comp
@@ -422,4 +420,6 @@ F 3 "" H 5850 2750 60  0000 C CNN
 	1    5850 2750
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	6100 3000 5800 3000
 $EndSCHEMATC
