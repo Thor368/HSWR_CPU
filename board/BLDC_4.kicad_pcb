@@ -2,10 +2,10 @@
 
   (general
     (links 203)
-    (no_connects 5)
+    (no_connects 2)
     (area 148.3 42.715 251.190301 138.795)
     (thickness 1.6)
-    (drawings 1)
+    (drawings 0)
     (tracks 723)
     (zones 0)
     (modules 72)
@@ -66,10 +66,10 @@
     (pad_size 1.85 1.85)
     (pad_drill 1.1)
     (pad_to_mask_clearance 0)
-    (aux_axis_origin 0 0)
+    (aux_axis_origin 150.8 50.2)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x00030_80000001)
+      (layerselection 0x01000_80000001)
       (usegerberextensions false)
       (excludeedgelayer true)
       (linewidth 0.100000)
@@ -90,9 +90,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory E:/HSWR_CPU_V1.0/))
   )
 
   (net 0 "")
@@ -2652,8 +2652,6 @@
       (rotate (xyz 0 0 0))
     )
   )
-
-  (target plus (at 150.8 130.2) (size 5) (width 0.15) (layer Edge.Cuts))
 
   (segment (start 194.23 56.47) (end 195.67 56.47) (width 0.25) (layer F.Cu) (net 1))
   (segment (start 195.67 56.47) (end 196.9 57.7) (width 0.25) (layer F.Cu) (net 1))
